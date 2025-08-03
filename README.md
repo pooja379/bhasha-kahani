@@ -1,0 +1,6 @@
+"# Bhasha Kahani" 
+"A poetic storytelling app featuring Tirumala's cultural heritage." 
+"Created by Pooja Akkupalli for Summer of AI 2025." 
+"" 
+"## ?? Poetic Story" 
+"Explore the full poetic narrative with images [here](https://code.swecha.org/poojaakkupalli123/pooja-akupalli/-/blob/main/places_tirumala_poetic_story_with_images_akkupalli_pooja_05July2025.docx.docx)." 
