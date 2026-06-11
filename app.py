@@ -39,8 +39,8 @@ if st.button("Submit"):
         with open(doc_path, "wb") as f:
             f.write(doc_file.read())
 
-    st.success("✅ Story submitted successfully. Thank you for contributing!")
-    st.subheader("📚 Submitted Stories")
+    st.success(" Story submitted successfully. Thank you for contributing!")
+    st.subheader("Submitted Stories")
 
 if os.path.exists("stories"):
     for file in os.listdir("stories"):
